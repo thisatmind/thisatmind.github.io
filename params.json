@@ -1,0 +1,6 @@
+{
+  "name": "빅데이터 앱 큐레이션",
+  "tagline": "",
+  "body": "### Welcome to GitHub Pages.\r\n\r\nThis is the page for thisatmind project.\r\n\r\n### Creating pages manually\r\nIf you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.\r\n\r\n### Authors and Contributors\r\n\r\nIn 2016, Patrick Shim (@festinalente91), sangwoo jeon(@jeonsangwoo)\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support]\r\n(thisatmind.support@gmail.com) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
